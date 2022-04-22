@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kirillr-Sibirski
 - 👀 I’m interested in AI and ML, blockchain development and web3 world.
-- 💞️ I’m looking to collaborate on web3 project.
+- 💞️ Currently looking into blockchain creation using Golang.
 - 📫 Discord: Sibirski#9631
