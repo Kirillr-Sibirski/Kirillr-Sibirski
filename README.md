@@ -13,5 +13,7 @@ I am a student interested in everything that can peak my interest even by a seco
 
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with in the past:
 <p align="center">
-  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kirillr-sibirski/my-stack)
+  <a href="https://stackshare.io/kirillr-sibirski/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="kirillr-sibirski :: StackShare" />
+  </a>
 </p>
