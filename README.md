@@ -1,4 +1,4 @@
-# Hello There :user:
+# Hello, World! :user:
 
 I am a student interested in everything that can peak my interest even by a second. Blockchain, hardware, psychology, DeFi, arduino, startups, metalworking, finance, philosophy, space, business, engineering, front-end, back-end, full-stack... 😉
 
