@@ -12,4 +12,6 @@ I am a student interested in everything that can peak my interest even by a seco
 ## My tech stack:
 
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with in the past:
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kirillr-sibirski/my-stack)
+<p align="center">
+  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kirillr-sibirski/my-stack)
+</p>
