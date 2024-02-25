@@ -7,7 +7,7 @@ I am a student interested in everything that can peak my interest even by a seco
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirillr-Sibirski&theme=tokyonight" alt="mystreak"/>
 ![Kirillr-Sibirski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirillr-Sibirski&theme=tokyonight&layout=compact)
 
-🌱 Blockchain Development is work. Mechatronics is hobby. High School is side-hustle.
+🌱 Blockchain Development is work. Mechatronics is hobby.
 
 ## My tech stack:
 
