@@ -3,9 +3,9 @@
 Builder of bold ideas. From pioneering blockchain solutions to engineering electronics, turns concepts into reality. The journey spans software, hardware, and everything in between—always with an eye on solving problems that matter. Speed and scalability are the guiding principles.
 
 ## Some stats 🚀
-![Kirillr-Sibirski's github stats](https://github-readme-stats.vercel.app/api?username=Kirillr-Sibirski&show_icons=true&theme=tokyonight)
+![Kirillr-Sibirski's github stats](https://github-readme-stats.vercel.app/api?username=Kirillr-Sibirski&show_icons=true&theme=dracula&include_all_commits=true)
 
-![Kirillr-Sibirski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirillr-Sibirski&theme=tokyonight&layout=compact)
+![Kirillr-Sibirski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirillr-Sibirski&theme=dracula&layout=compact&hide=ruby,shell,scss&langs_count=8)
 
 ## My tech stack:
 
