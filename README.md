@@ -7,10 +7,6 @@ buidler.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirillr-Sibirski&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirillr-Sibirski&bg_color=ffffff00&color=2563eb&line=14b8a6&point=0f172a&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
 ## My tech stack:
 
 <p align="center">
