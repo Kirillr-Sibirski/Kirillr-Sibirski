@@ -1,0 +1,56 @@
+<svg width="1100" height="900" viewBox="0 0 1100 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Karl Ryberg Claude Code README transcript</title>
+  <desc id="desc">A Claude Code inspired terminal transcript where Karl asks Claude to improve his GitHub README and Claude writes a profile based on GitHub and krlberg.dev.</desc>
+  <style>
+    .bg { fill: #f6f2ea; }
+    .line { stroke: #8d867a; stroke-width: 1.5; }
+    .box { stroke: #c8623f; stroke-width: 1.5; }
+    .text { fill: #282622; font: 500 25px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .small { font-size: 22px; }
+    .tiny { font-size: 19px; }
+    .muted { fill: #777168; }
+    .dim { fill: #433f39; }
+    .accent { fill: #c8623f; }
+    .green { fill: #277044; }
+    .blue { fill: #175ea8; }
+    .cursor { fill: #282622; animation: blink 1.05s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect class="bg" width="1100" height="900"/>
+
+  <text x="0" y="43" class="text">krlberg@github.com ~/profile % claude</text>
+
+  <rect x="36" y="76" width="1028" height="76" rx="8" class="box"/>
+  <rect x="76" y="56" width="212" height="34" class="bg"/>
+  <text x="94" y="84" class="text accent small">Claude Code</text>
+  <text x="72" y="126" class="text small">
+    <tspan class="muted">Sonnet 4.6</tspan><tspan class="dim"> · </tspan><tspan class="muted">medium effort</tspan><tspan class="dim"> · </tspan><tspan class="muted">~/profile</tspan>
+  </text>
+
+  <text x="0" y="213" class="text" style="font-weight:700">&gt;</text>
+  <text x="42" y="213" class="text small">
+    <tspan class="muted">hey claude make this look good pls make no mistakes</tspan><rect x="730" y="187" width="23" height="38" class="cursor"/>
+  </text>
+
+  <line x1="0" y1="258" x2="1100" y2="258" class="line"/>
+
+  <text x="36" y="312" class="text small"><tspan class="accent">●</tspan><tspan> Read(github.com/Kirillr-Sibirski)</tspan></text>
+  <text x="72" y="348" class="text tiny muted">⎿ loaded GitHub profile, pinned work, public repo signal</text>
+
+  <text x="36" y="406" class="text small"><tspan class="accent">●</tspan><tspan> Read(krlberg.dev)</tspan></text>
+  <text x="72" y="442" class="text tiny muted">⎿ loaded CV, hardware resume, hackathons, education</text>
+
+  <text x="36" y="500" class="text small"><tspan class="accent">●</tspan><tspan> Update(README.md)</tspan></text>
+  <text x="72" y="540" class="text tiny muted">⎿ wrote profile README:</text>
+
+  <text x="72" y="591" class="text small"><tspan class="green">Karl Ryberg</tspan></text>
+  <text x="72" y="628" class="text tiny dim">mechatronics student focused on robotics, AI, and physical systems.</text>
+  <text x="72" y="662" class="text tiny dim">ex-blockchain dev; built DeFi UX, lending and leverage products across</text>
+  <text x="72" y="696" class="text tiny dim">Radix, EVM, and Sui before drifting harder into hardware.</text>
+
+  <text x="72" y="746" class="text tiny"><tspan class="blue">hardware</tspan><tspan class="dim">   active suspension RC car · piezo accelerometer · Hormesis keyboard</tspan></text>
+  <text x="72" y="780" class="text tiny"><tspan class="blue">toolbox</tspan><tspan class="dim">    CAD · PCB design · firmware · control systems · frontend polish</tspan></text>
+  <text x="72" y="814" class="text tiny"><tspan class="blue">signal</tspan><tspan class="dim">     15+ hackathons: ETHOxford, ETHLisbon, ETHGlobal Brussels,</tspan></text>
+  <text x="72" y="848" class="text tiny"><tspan class="blue">           </tspan><tspan class="dim">Chainlink Convergence, HackMoney, Radix EBC, xStocks Cannes</tspan></text>
+</svg>
