@@ -19,8 +19,8 @@ mechatronics student focused on robotics, AI, and physical systems.
 ex-blockchain dev; built DeFi UX, lending and leverage products across
 Radix, EVM, and Sui before drifting harder into hardware.
 
-**hardware** active suspension RC car · piezo accelerometer · Hormesis keyboard  
-**toolbox** CAD · PCB design · firmware · control systems · frontend polish  
-**signal** 15+ hackathons: ETHOxford, ETHLisbon, ETHGlobal Brussels, Chainlink Convergence, HackMoney, Radix EBC, xStocks Cannes
+- **hardware**: active suspension RC car · piezo accelerometer · Hormesis keyboard  
+- **toolbox**: CAD · PCB design · firmware · control systems · frontend polish  
+- **signal**: 15+ hackathons: ETHOxford, ETHLisbon, ETHGlobal Brussels, Chainlink Convergence, HackMoney, Radix EBC, xStocks Cannes
 
 [krlberg.dev](https://krlberg.dev)
